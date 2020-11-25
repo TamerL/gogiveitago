@@ -2,7 +2,7 @@ package gogiveitago_test
 
 import (
 	"testing"
-	"github.com/tamerl/gogiveitago"
+	"github/tamerl/gogiveitago"
 )
 
 func TestGogiveitago(t *testing.T) {
